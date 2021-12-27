@@ -7,7 +7,9 @@ __1.安装电脑浏览器的驱动driver（需要对应版本）__
   chrome driver
   
   <http://npm.taobao.org/mirrors/chromedriver/>
+
   or
+
   <http://chromedriver.storage.googleapis.com/index.html>
   
   edge driver
