@@ -15,6 +15,8 @@ __1.安装电脑浏览器的驱动driver（需要对应版本）__
   <https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/>
   
 __安装到本地对应浏览器目录文件夹__
+
+ps:代码中使用的是chrome
 ___
 
 __2.需要有py环境（安装python）__
