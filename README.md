@@ -27,3 +27,5 @@ __4.调整代码参数（账户、密码、选课的元素位置）__
 ___
 ## 资助
 
+<img src="https://github.com/VoxHwa/selecting-lesson-fast/blob/main/payment/alipay.jpg" width = "200" height = "300" alt="" align=left />
+<img src="https://github.com/VoxHwa/selecting-lesson-fast/blob/main/payment/wechat.jpg" width = "200" height = "300" alt="" align=right/>
