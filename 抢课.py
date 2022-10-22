@@ -42,10 +42,10 @@ ActionChains(driver).move_to_element(move).perform()#悬浮鼠标，拉出选项
 driver.find_element_by_xpath('//*[@id="navxl"]/li[2]/ul/li[1]/a').click()#通识
 
 
-    #driver.find_element_by_xpath('//*[@id="headDiv"]/ul/li[2]/ul/li[2]/a').click()#专业任意专限
+    #driver.find_element_by_xpath('//*[@id="navxl"]/li[2]/ul/li[2]/a').click()#专业任意专限
 
 
-    #driver.find_element_by_xpath('//*[@id="headDiv"]/ul/li[2]/ul/li[3]/a').click()#创新、外语
+    #driver.find_element_by_xpath('//*[@id="navxl"]/li[2]/ul/li[3]/a').click()#创新、外语
 
 
 driver.switch_to.frame(driver.find_element_by_xpath('//*[@id="iframeautoheight"]')) #进入iframe中,很重要，否则会找不到提交
