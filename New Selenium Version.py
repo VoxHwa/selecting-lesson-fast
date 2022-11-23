@@ -14,9 +14,9 @@ driver = webdriver.Edge()
 driver.get("http://210.28.81.11/")
 driver.maximize_window()
 verificationcode=input()
-Username='2120210988'
+Username=''
 #教务系统账户
-password='Jiang525566!'
+password=''
 #教务系统密码
 
 driver.find_element("xpath",'//*[@id="txtSecretCode"]').send_keys(verificationcode)
